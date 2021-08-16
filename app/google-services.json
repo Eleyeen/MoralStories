@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795225104345",
+    "firebase_url": "https://moral-stories-english.firebaseio.com",
+    "project_id": "moral-stories-english",
+    "storage_bucket": "moral-stories-english.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795225104345:android:343f4fe4954c6bdc5d43c8",
+        "android_client_info": {
+          "package_name": "com.sultanapp.moralstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795225104345-3bt4mu9ltqn710hf6uv7d2m9rvs3eq7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultanapp.moralstories",
+            "certificate_hash": "d011970fb65027d8da5eaa4dec3c618ae04d8b6b"
+          }
+        },
+        {
+          "client_id": "795225104345-npgo747vip9e65hr2tpmlkrkqhnnk0r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8WyRzfwlq8u87AoSbWJYa969xYaIA3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795225104345-npgo747vip9e65hr2tpmlkrkqhnnk0r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
